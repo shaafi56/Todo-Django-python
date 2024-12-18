@@ -11,7 +11,7 @@ Todo webapp complete django python
 wixii installations ah ama inad source ka isticmasho qabka loo isticmalayo wixi faah fahin ah waxan kugu qoray ama kugu diyariyey notion link gaan
 waxan rajynaya inuu si fiican ku cawin doono i.a
 
-https://beaded-tiara-273.notion.site/Django-todo-app-steps-127afddcff928029949bf96fa97043f5?pvs=4
+https://beaded-tiara-273.notion.site/Django-todo-app-steps-127afddcff928029949bf96fa97043f5?pvs=73
 
 **Images**
 
