@@ -30,3 +30,10 @@ https://beaded-tiara-273.notion.site/Django-todo-app-steps-127afddcff928029949bf
 -> login page
 
 ![image](https://github.com/user-attachments/assets/68b49cf8-17df-4ab5-bec0-fe2703b21397)
+
+** qaabka terminal ka looga soo kiciyo**
+
+-> eaac tilmaamaha ku xisan sawika adiga oo dhigaya zip ka ama file ka aad github ka kala dagtay directory gaaga Documents
+
+![image](https://github.com/user-attachments/assets/3197eb3a-ef03-45cf-b3e1-194677599684)
+
