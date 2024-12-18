@@ -1,6 +1,10 @@
 # Todo-Django-python
 Todo webapp complete django python 
 
+**Afeef anigu waxa aan isticmalayey linix ubuntu 24.04**
+
+hadii aad isticmalysid windows commands ka wax yar ayey ku kala duwanyihiin linux waxana ka radin kartaa search egining ska
+
 ->todo app kan waxa uu ka koobanyahy:
 1. registration
 2. login
