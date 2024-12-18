@@ -37,3 +37,5 @@ https://beaded-tiara-273.notion.site/Django-todo-app-steps-127afddcff928029949bf
 
 ![image](https://github.com/user-attachments/assets/3197eb3a-ef03-45cf-b3e1-194677599684)
 
+kasib waxad copy dhahdaa address ka ka muuqda sawirka gudihiisa ama lifaaqan http://127.0.0.1:8000/ waxaan ku past gareysaa prowserka aad istcimalyso
+
